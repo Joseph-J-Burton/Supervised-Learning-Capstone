@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Jupyter Notebook check points
+.ipynb_checkpoints
+.idea
+
